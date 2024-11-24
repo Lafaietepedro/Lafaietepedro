@@ -84,7 +84,7 @@ Olá! Sou um desenvolvedor Front-End apaixonado por criar interfaces modernas e 
 
 ## 🌐 Conecte-se comigo!  
 - 📧 **Email:** [lafaietepedro3@gmail.com](mailto:lafaietepedro3@gmail.com)  
-- 💼 **LinkedIn:** [LinkedIn](https://linkedin.com/in/lafaiete-pedro-dev)  
+- 💼 **LinkedIn:** [LinkedIn](www.linkedin.com/in/lafaiete-almeida-dev)  
 - 🌟 **Portfólio:** [Meu Portfólio](https://lpdevportfolio.vercel.app)  
 
 ---

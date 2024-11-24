@@ -2,7 +2,7 @@
 
 Olá! Sou um desenvolvedor Front-End apaixonado por criar interfaces modernas e funcionais. Atualmente, estou em transição para uma posição Full Stack, combinando minhas habilidades em React no Front-End com Python no Back-End.  
 
-🎯 **Meu foco atual:** Desenvolver projetos impactantes que integram design e funcionalidade, enquanto aprimoro minhas habilidades em Python e banco de dados.  
+🎯 **Meu foco atual:** Atualmente, estou focado no estudo e desenvolvimento de projetos em Machine Learning e Inteligência Artificial. Meu objetivo é aplicar modelos e algoritmos para resolver problemas reais, sempre buscando melhorar a precisão e a eficiência das soluções. Explorando técnicas como Random Forest, redes neurais e aprendizado supervisionado, estou constantemente expandindo meu conhecimento nessa área fascinante.  
 
 ---
 

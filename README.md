@@ -1,90 +1,83 @@
-# 👨‍💻 Bem-vindo ao meu GitHub!  
+<h1 align="center">Lafaiete Almeida</h1>
 
-Olá! Sou um desenvolvedor Front-End apaixonado por criar interfaces modernas e funcionais. Atualmente, estou em transição para uma posição Full Stack, combinando minhas habilidades em React no Front-End com Python no Back-End.  
+<p align="center">
+  <strong>Desenvolvedor Full Stack · Front-End · Automação de Processos</strong>
+</p>
 
-🎯 **Meu foco atual:** Atualmente, estou focado no estudo e desenvolvimento de projetos em Machine Learning e Inteligência Artificial. Meu objetivo é aplicar modelos e algoritmos para resolver problemas reais, sempre buscando melhorar a precisão e a eficiência das soluções. Explorando técnicas como Random Forest, redes neurais e aprendizado supervisionado, estou constantemente expandindo meu conhecimento nessa área fascinante.  
+<p align="center">
+  <a href="https://www.lpemsoftware.com.br">LPeM Software & Automation</a> ·
+  <a href="https://www.linkedin.com/in/lafaiete-almeida-dev">LinkedIn</a> ·
+  <a href="https://github.com/Lafaietepedro?tab=repositories">Repositórios</a>
+</p>
 
----
+## Sobre mim
 
-## 🚀 Sobre mim  
-- 💻 Desenvolvedor Front-End com experiência em React e Vite.  
-- 🐍 Interesse crescente por Python e desenvolvimento Back-End.  
-- 📚 Estudante dedicado de tecnologia e apaixonado por aprender algo novo todos os dias.  
-- 🎨 Foco em criar soluções visuais impactantes e responsivas.  
+Desenvolvedor Full Stack e estudante de Ciência da Computação na Universidade de Brasília (UnB). Atuo na modernização de sistemas GovTech no Tribunal Superior do Trabalho e desenvolvo produtos próprios e automações pela **LPeM Software & Automation**.
 
----
+Meu trabalho combina interfaces bem estruturadas, APIs, bancos de dados, autenticação, testes automatizados e integrações. Tenho interesse especial em transformar processos manuais em sistemas simples de operar, seguros e verificáveis.
 
-## 🛠️ Tecnologias e Ferramentas  
-### **Front-End**  
-- React.js  
-- Vite  
-- HTML5, CSS3 e JavaScript  
-- Axios (para consumo de APIs)  
+- 💼 Desenvolvedor Full Stack (estágio) no Tribunal Superior do Trabalho
+- 🏢 LPeM Software & Automation — software e automação para pequenas empresas
+- 🎓 Ciência da Computação na UnB — conclusão prevista para 2027
+- 🌎 Português nativo · Inglês C1 · Japonês N5
 
-### **Back-End**  
-- Node.js  
-- Express.js 
-- Python  
-- MySQL  
+## Tecnologias
 
-### **Outras ferramentas**  
-- Git & GitHub  
-- Vercel (deploy de projetos)  
-- VS Code  
+| Área | Ferramentas |
+| --- | --- |
+| Front-End | Angular 17+, React, Next.js, TypeScript, RxJS, Tailwind CSS, SASS |
+| Back-End | Java, Spring Boot, Node.js, APIs RESTful, Prisma ORM |
+| Dados | PostgreSQL, MongoDB, MySQL |
+| Arquitetura e segurança | OAuth2, Keycloak, RBAC, Server Components, Server Actions |
+| Qualidade e entrega | Jest, JUnit, TDD, Docker, Git, GitHub, Vercel |
+| Integrações e automação | n8n, webhooks, filas operacionais |
 
-<br clear="both">
+## Projetos em destaque
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="50" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-</div>
+### [Venue Eventos](https://github.com/Lafaietepedro/chacaraDosSonhos)
 
-###
+Produto próprio da LPeM apresentado pela marca fictícia **Villa Aurora**. É uma base full stack para espaços de eventos, com catálogo, disponibilidade, solicitação de reserva, cálculo autoritativo de preço e painel operacional.
 
-<img src="https://raw.githubusercontent.com/Lafaietepedro/Lafaietepedro/output/snake.svg" alt="Snake animation" />
+`Next.js` `React` `TypeScript` `Prisma` `PostgreSQL/SQLite` `Testes automatizados`
 
-###
+[Repositório](https://github.com/Lafaietepedro/chacaraDosSonhos) · [Demonstração](https://venue-eventos.vercel.app)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Lafaietepedro/count.svg?"  />
-</div>
+### [BarberElite](https://github.com/Lafaietepedro/barber)
 
-###
----
+Plataforma de agendamento para barbearias e negócios de serviços, com disponibilidade por profissional, proteção contra conflito de horários, dashboard administrativo e fila auditável de automações para webhooks e n8n.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lafaietepedro&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lafaietepedro&theme=synthwave&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lafaietepedro&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+`Next.js 15` `React 19` `TypeScript` `MongoDB` `Webhooks HMAC` `n8n`
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[Repositório](https://github.com/Lafaietepedro/barber) · [Demonstração](https://barberelite.vercel.app)
 
-## 🌐 Conecte-se comigo!  
-- 📧 **Email:** [lafaietepedro3@gmail.com](mailto:lafaietepedro3@gmail.com)  
-- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/lafaiete-almeida-dev)  
-- 🌟 **Portfólio:** [Meu Portfólio](https://lpdevportfolio.vercel.app)  
+### [Estuda2](https://estuda2.vercel.app)
 
----
+Aplicação full stack para organizar estudos de concurso de forma individual ou em grupo. Reúne sessões, questões, tópicos do edital, revisões, planejamento, relatórios e comparação entre participantes.
+
+`Next.js 15` `React 19` `TypeScript` `Prisma` `PostgreSQL` `Playwright`
+
+[Demonstração](https://estuda2.vercel.app)
+
+### [LPeM Software & Automation](https://www.lpemsoftware.com.br)
+
+Site e vitrine dos produtos próprios da LPeM, além da apresentação dos serviços de desenvolvimento de software e automação para pequenas empresas.
+
+[Conhecer a LPeM](https://www.lpemsoftware.com.br) · [Ver projetos](https://www.lpemsoftware.com.br/projetos)
+
+## Experiência e formação
+
+- **Tribunal Superior do Trabalho — TST** · Desenvolvedor Full Stack (estágio), desde janeiro de 2026<br>
+  Angular 17+, Spring Boot, Docker, Keycloak, Jest e integração de sistemas.
+- **Freelance e projetos autorais** · desde agosto de 2023<br>
+  Desenvolvimento de aplicações web, APIs, dashboards e automações.
+- **Universidade de Brasília — UnB** · Bacharelado em Ciência da Computação<br>
+  Conclusão prevista para dezembro de 2027.
+- **SENAI** · Formação Full Stack e Front-End, 2024.
+
+## Contato
+
+Para conversar sobre software, automação ou colaboração profissional:
+
+- [LinkedIn](https://www.linkedin.com/in/lafaiete-almeida-dev)
+- [LPeM Software & Automation](https://www.lpemsoftware.com.br)
+- [contato@lpemsoftware.com.br](mailto:contato@lpemsoftware.com.br)
